@@ -1,0 +1,10 @@
+{
+  "name": "socket-chat-dicionario-example-bueno",
+  "version": "1.0",
+  "description": "WebSockets NodeJS Chat Dicionário - Bueno - SD",
+  "dependencies": {
+    "express": "^4.10.2",
+    "requestify": "^0.1.17",
+    "socket.io": "^1.4.6"
+  }
+}
