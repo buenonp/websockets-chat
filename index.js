@@ -28,6 +28,6 @@ io.on('connection', function(socket){
 });
 
 
-http.listen(3000, function(){
+app.listen(app.get('port'), function(){
   console.log('Escutando na porta 3000.');
 });
